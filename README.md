@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=280&section=header&text=VEER%20BAJPAI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20Systems%20%26%20Backend%20Engineering&descAlignY=55&descSize=20&descAlign=50" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/142056221?v=4" width="140" style="border-radius:50%;border:4px solid #8E2DE2;" />
+<img src="https://avatars.githubusercontent.com/u/142056221?v=4" width="140" />
 
 <br/>
 
@@ -140,7 +140,7 @@ status:    Open to Software Engineer opportunities 🚀
 
 ## 💬 Let's Build Something
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:12px;"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 📩 **bajpai.veer01@gmail.com** — open to collaborating on backend systems, AI/LLM tooling & data-driven products.
 
