@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=280&section=header&text=VEER%20BAJPAI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20Systems%20%26%20Backend%20Engineering&descAlignY=55&descSize=20&descAlign=50" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/142056221?v=4" width="140" />
 
 <br/>
 
