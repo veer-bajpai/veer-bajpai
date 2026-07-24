@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Veer%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Systems%20%26%20Backend&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Veer%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Systems%20%7C%20Full%20Stack&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Systems+%26+Backend;AI%2FML+%7C+RAG+Pipelines+%7C+LLM+Systems;C%2B%2B+%7C+Python+%7C+High-Performance+Computing;Building+Scalable%2C+Production-Grade+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Backend+%26+Systems;C%2B%2B+%7C+Python+%7C+High-Performance+Computing;Full-Stack+%7C+REST+APIs+%7C+Databases;Building+Scalable%2C+Production-Grade+Software" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,16 +34,16 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/vaishakhk/vaishakhk/master/img/coding.gif"/>
 
-I'm **Veer Bajpai**, a Software Engineer specializing in **systems-level programming, high-performance backend architecture, and applied AI/ML engineering**. I build software that operates at the intersection of low-level performance and intelligent design — from multi-threaded C++ engines processing real-time network traffic to LLM-powered retrieval systems serving semantic queries at scale.
+I'm **Veer Bajpai**, a **Software Engineer** specializing in **backend systems, high-performance C++ engineering, and full-stack development**. I build software that operates at the intersection of low-level performance and clean architecture — from multi-threaded engines processing real-time network traffic to RESTful services powering intelligent applications at scale.
 
 My engineering philosophy centers on **precision, scalability, and product impact**. I approach every system with a product engineering mindset — optimizing not just for correctness, but for throughput, reliability, and real-world usability.
 
 **Core Focus Areas:**
 
 - ⚙️ **Systems & Backend Engineering** — multi-threaded architectures, TCP/IP, socket programming, concurrent data structures
-- 🧠 **AI/ML Engineering** — Retrieval-Augmented Generation (RAG), vector search (HNSW/KD-Tree), local LLM inference with Ollama
 - 🌐 **Full-Stack Development** — RESTful API design, relational database architecture, scalable service integration
 - 📊 **Data Engineering** — high-throughput ingestion pipelines, query optimization, reporting infrastructure
+- 🧠 **Applied AI/ML** — Retrieval-Augmented Generation (RAG), vector search (HNSW/KD-Tree), local LLM inference with Ollama
 
 <br clear="right"/>
 
@@ -52,8 +52,8 @@ My engineering philosophy centers on **precision, scalability, and product impac
 ```
 
 🔹 Software Engineering Roles (Backend / Systems)
-🔹 AI/ML Engineering Roles
 🔹 Full-Stack Engineering Opportunities
+🔹 AI/ML Engineering Roles
 🔹 Open Source Collaboration
 🔹 Research Internships in Applied AI
 
@@ -67,25 +67,25 @@ My engineering philosophy centers on **precision, scalability, and product impac
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,postgresql" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,postgresql,mysql,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,postgresql,mysql,fastapi" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cmake,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cmake,postman" />
 
 </div>
 
 ---
 
-## 🟣 AI / ML Expertise
+## 🟣 Applied AI/ML Specialty
 
 <div align="center">
 
