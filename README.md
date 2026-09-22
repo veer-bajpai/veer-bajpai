@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Veer%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Systems%20%7C%20Full%20Stack&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Backend+%26+Systems;C%2B%2B+%7C+Python+%7C+High-Performance+Computing;Full-Stack+%7C+REST+APIs+%7C+Databases;Building+Scalable%2C+Production-Grade+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+%7C+Full-Stack+%7C+Forward+Deployed+Engineer;FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;C%2B%2B+%7C+Python+%7C+High-Performance+Systems;Shipped+3+FastAPI+systems+%2B+199%2F199+tests+passing" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![B.E. Computer Science](https://img.shields.io/badge/B.E.-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Chandigarh University](https://img.shields.io/badge/Chandigarh%20University-2022--2026-4C1D95?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Kanpur%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to-Backend%20%7C%20Full--Stack%20%7C%20FDE%20roles-7C3AED?style=for-the-badge)
 
 <br/>
 
@@ -34,16 +34,18 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/vaishakhk/vaishakhk/master/img/coding.gif"/>
 
-I'm **Veer Bajpai**, a **Software Engineer** specializing in **backend systems, high-performance C++ engineering, and full-stack development**. I build software that operates at the intersection of low-level performance and clean architecture — from multi-threaded engines processing real-time network traffic to RESTful services powering intelligent applications at scale.
+I'm **Veer Bajpai**, a software engineer who builds **production-shaped backend systems end-to-end** — authentication, RBAC, payments, and Docker deployment — alongside **high-performance C++ systems work** at the network and memory level.
 
-My engineering philosophy centers on **precision, scalability, and product impact**. I approach every system with a product engineering mindset — optimizing not just for correctness, but for throughput, reliability, and real-world usability.
+I've shipped 3 FastAPI systems, held seat-overselling at **zero across 600 concurrent bookings**, and verified **199/199 tests passing** on an AI code agent. On the systems side, I've built a multi-threaded Deep Packet Inspection engine classifying real-time network traffic with 90% accuracy and zero false negatives.
+
+My engineering philosophy centers on **precision, scalability, and product impact** — optimizing not just for correctness, but for throughput, reliability, and real-world usability.
 
 **Core Focus Areas:**
 
-- ⚙️ **Systems & Backend Engineering** — multi-threaded architectures, TCP/IP, socket programming, concurrent data structures
+- 🧩 **Backend & API Engineering** — FastAPI, JWT auth & RBAC, multi-tenancy, payments, webhooks
+- ⚙️ **Systems & Networking** — multi-threaded architectures, TCP/IP, socket programming, concurrent data structures
 - 🌐 **Full-Stack Development** — RESTful API design, relational database architecture, scalable service integration
-- 📊 **Data Engineering** — high-throughput ingestion pipelines, query optimization, reporting infrastructure
-- 🧠 **Applied AI/ML** — Retrieval-Augmented Generation (RAG), vector search (HNSW/KD-Tree), local LLM inference with Ollama
+- 🧠 **Applied AI/ML** — AI agents & tool calling, Retrieval-Augmented Generation (RAG), vector search (HNSW/KD-Tree), local LLM inference with Ollama, BM25 search
 
 <br clear="right"/>
 
@@ -51,11 +53,11 @@ My engineering philosophy centers on **precision, scalability, and product impac
 
 ```
 
-🔹 Software Engineering Roles (Backend / Systems)
-🔹 Full-Stack Engineering Opportunities
+🔹 Backend / Full-Stack Engineering Roles
+🔹 Forward Deployed Engineer Opportunities
+🔹 Systems / Software Engineering Roles
 🔹 AI/ML Engineering Roles
 🔹 Open Source Collaboration
-🔹 Research Internships in Applied AI
 
 ```
 
@@ -67,7 +69,7 @@ My engineering philosophy centers on **precision, scalability, and product impac
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,mysql,postgresql" />
 
 **Frontend**
 
@@ -75,11 +77,11 @@ My engineering philosophy centers on **precision, scalability, and product impac
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,postgresql,mysql,fastapi" />
+<img src="https://skillicons.dev/icons?i=fastapi,python,cpp,postgresql,sqlite,redis,mongodb" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cmake,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,cmake,postman" />
 
 </div>
 
@@ -91,17 +93,74 @@ My engineering philosophy centers on **precision, scalability, and product impac
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
+| **AI Agents & Tool Calling** | ⭐⭐⭐⭐☆ | Built a sandboxed, human-in-the-loop AI code agent (search, read, edit, run tests, diff) gated by approval on every mutating action |
 | **Retrieval-Augmented Generation (RAG)** | ⭐⭐⭐⭐☆ | Built custom RAG pipelines integrating local LLM inference via Ollama for context-aware retrieval and generation |
-| **Vector Search & Indexing** | ⭐⭐⭐⭐☆ | Implemented HNSW indexing achieving sub-second query latency across 100,000+ document knowledge bases |
-| **LLM Integration** | ⭐⭐⭐⭐☆ | Engineered high-concurrency REST APIs serving semantic search queries against LLM backends |
+| **Vector & Lexical Search** | ⭐⭐⭐⭐☆ | Implemented HNSW indexing with sub-second query latency across 100,000+ documents, and BM25 lexical search for codebase retrieval |
+| **LLM Integration** | ⭐⭐⭐⭐☆ | Engineered high-concurrency REST APIs serving semantic search and Gemini-assisted field mapping against LLM backends |
 | **Embedding Systems** | ⭐⭐⭐⭐☆ | Architected scalable embedding storage, reducing memory overhead by 20% with high-precision retrieval |
-| **Applied Data Structures (KD-Tree/HNSW)** | ⭐⭐⭐⭐☆ | Applied advanced indexing structures for high-dimensional nearest-neighbor search |
 
 </div>
 
 ---
 
 ## 🟣 Featured Projects
+
+<details open>
+<summary><b>🧩 EventForge — Multi-Tenant Event Management Platform</b></summary>
+<br/>
+
+A multi-tenant event hosting platform: organizations create events, sell tickets, take payments, and check guests in at the door, with full tenant isolation and role-based access.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | FastAPI, PostgreSQL, Redis, SQLAlchemy 2, Docker |
+| **RBAC** | 4 roles (`viewer < staff < admin < owner`) via a dependency-based gate; non-members get `404`, not `403` |
+| **Auth** | Rotating refresh tokens with theft detection — reusing a rotated token revokes the whole token family |
+| **Concurrency** | Seat reservation via conditional `UPDATE … WHERE sold + qty <= capacity` — **zero oversold seats across 600 concurrent bookings** |
+| **Payments** | HMAC-signed webhooks with an idempotency ledger; replayed webhooks are harmless |
+| **Testing** | 15 passing API tests covering tenancy, RBAC, refresh rotation, overselling, and webhooks |
+| **Links** | [Live Demo](https://eventforge-o7yt.onrender.com/) · [Repository](https://github.com/veer-bajpai/Event.Forge-Multi-Tenant-Event-Management-Platform) |
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🤖 RepoPilot — AI Code Agent</b></summary>
+<br/>
+
+An AI developer agent that reads a repository, plans a fix, edits files, and runs tests — with a human approval gate before every edit and every test run.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | FastAPI, Python 3.10+, Google Gemini, BM25 Search, Docker |
+| **Safety** | 5-tool sandboxed action set (search, read, edit, run tests, diff); the model never touches the filesystem, network, or shell directly |
+| **Security layers** | Visitor isolation, abuse limits, path/secret hard-blocks, approval gates, scrubbed test execution |
+| **Verified** | **199/199 tests passing**, and a rejected edit never touched the file in a real run |
+| **Links** | [Live Demo](https://repo-pilot-ai-code-agent.onrender.com/) · [Repository](https://github.com/veer-bajpai/Repo.Pilot-AI-Code-Agent) |
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🔌 IntegrateHub — AI-Powered Data Integration Platform</b></summary>
+<br/>
+
+A unified ingestion pipeline that turns client data arriving from disconnected sources into clean, mapped records.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | FastAPI, SQLite, Google Gemini, Docker |
+| **Ingestion** | CSV uploads, HMAC-verified webhooks, and REST pulls into one JWT-scoped, multi-tenant workspace |
+| **AI mapping** | Gemini-assisted field mapping with a deterministic local fallback when no API key is set |
+| **Security** | Constant-time HMAC signature verification, encrypted-at-rest connector secrets |
+| **Verified** | **20 concurrent uploads at 269 req/s with 100% correct duplicate detection**, forged signatures rejected |
+| **Links** | [Live Demo](https://integratehub.onrender.com/) · [Repository](https://github.com/veer-bajpai/Integrate.Hub-AI-Powered-Data-Integration-Platform) |
+
+</details>
+
+<br/>
 
 <details open>
 <summary><b>🔷 DPI Engine — Deep Packet Inspection System</b></summary>
@@ -118,14 +177,14 @@ High-throughput, multi-threaded Deep Packet Inspection engine built in C++, desi
 | **Impact** | 90% traffic classification accuracy with zero false negatives across 75+ PCAP datasets |
 | **Repository** | [View Project](https://github.com/veer-bajpai) |
 
-Architected scalable flow management using thread-safe queues and consistent hashing to ensure high availability and reliable packet processing under sustained heavy load. Validated extensively against real-world packet capture datasets to guarantee production-grade classification accuracy.
+Architected scalable flow management using thread-safe queues and consistent hashing to ensure high availability and reliable packet processing under sustained heavy load.
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b>🔷 AI Personal Assistant — LLM-Powered Chatbot</b></summary>
+<summary><b>🧠 AI Personal Assistant — LLM-Powered Chatbot</b></summary>
 <br/>
 
 A high-concurrency, LLM-powered semantic search and retrieval system combining a custom RAG pipeline with local inference and optimized vector search.
@@ -189,12 +248,11 @@ Contributed as a backend-focused software engineering intern within an Agile tea
 
 <div align="center">
 
-**Meta**
-
+![Oracle Cloud Infrastructure AI Foundations Associate](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AI/Agent Applied Skills](https://img.shields.io/badge/Microsoft-AI%2FAgent%20Applied%20Skills-6D28D9?style=for-the-badge&logo=microsoft&logoColor=white)
+![MongoDB Associate Developer](https://img.shields.io/badge/MongoDB-Associate%20Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-4C1D95?style=for-the-badge&logo=github&logoColor=white)
 ![Meta Back-End Developer](https://img.shields.io/badge/Meta-Back--End%20Developer%20Professional%20Certificate-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-
-**Coursera**
-
 ![Coursera](https://img.shields.io/badge/Coursera-Verified%20Certificate-6D28D9?style=for-the-badge&logo=coursera&logoColor=white)
 
 </div>
@@ -208,6 +266,8 @@ Contributed as a backend-focused software engineering intern within an Agile tea
 [![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Veer_Bajpai/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/bajpaivhiwe)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bajpai_veer01)
+
+500+ DSA problems solved across LeetCode, GeeksforGeeks & HackerRank.
 
 </div>
 
@@ -261,22 +321,23 @@ Contributed as a backend-focused software engineering intern within an Agile tea
 ## 🟣 Current Focus
 
 ```yaml
+Building:
+  - Production-shaped backend systems (auth, RBAC, payments, multi-tenancy)
+  - AI agents with sandboxed tool calling and human approval gates
+  - High-performance network processing engines
+
 Learning:
   - Advanced Distributed Systems Design
   - Large Language Model Fine-Tuning & Optimization
   - Cloud-Native Backend Architecture
-
-Building:
-  - Production-grade RAG & Vector Search Systems
-  - High-Performance Network Processing Engines
 
 Exploring:
   - Systems-Level AI Infrastructure
   - Scalable Microservice Architectures
 
 Open To:
-  - Software Engineering Roles (Backend / Systems)
-  - AI/ML Engineering Opportunities
+  - Backend / Full-Stack / Forward Deployed Engineer roles
+  - Systems & AI/ML Engineering Opportunities
   - Open Source Collaboration
 ```
 
