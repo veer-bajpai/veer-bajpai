@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">FRIDAY AI Agent Animation</title>
+  <desc id="desc">An animated cyan AI interface with orbiting nodes and system status panels.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#102A33"/>
+      <stop offset="55%" stop-color="#091319"/>
+      <stop offset="100%" stop-color="#050709"/>
+    </radialGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E6FCFF"/>
+      <stop offset="18%" stop-color="#67E8F9"/>
+      <stop offset="55%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#083344" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#164E63" stroke-width=".7" opacity=".38"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="430" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="17" fill="none" stroke="#155E75" stroke-opacity=".7"/>
+  <rect x="22" y="22" width="1156" height="386" rx="10" fill="url(#grid)" opacity=".46"/>
+
+  <g opacity=".72" font-family="JetBrains Mono, monospace" fill="#67E8F9">
+    <text x="48" y="58" font-size="13" letter-spacing="3">FRIDAY // LOCAL AGENT</text>
+    <text x="48" y="78" font-size="10" opacity=".65">SYSTEMS ONLINE</text>
+    <text x="1040" y="58" font-size="11" text-anchor="end">SECURE NODE 01</text>
+  </g>
+
+  <g transform="translate(600 220)">
+    <circle r="118" fill="none" stroke="#155E75" stroke-width="1" stroke-dasharray="7 9" opacity=".7">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="92" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-dasharray="48 18 10 22" opacity=".75">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="70" fill="none" stroke="#67E8F9" stroke-width=".8" stroke-dasharray="3 7" opacity=".6"/>
+    <circle r="52" fill="url(#core)" filter="url(#glow)">
+      <animate attributeName="r" values="48;54;48" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="28" fill="#050709" stroke="#A5F3FC" stroke-width="2"/>
+    <circle r="10" fill="#67E8F9" filter="url(#glow)">
+      <animate attributeName="opacity" values=".5;1;.5" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <g fill="#67E8F9" filter="url(#glow)">
+      <circle cx="118" cy="0" r="5"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="-92" cy="20" r="4"><animate attributeName="opacity" values="1;.25;1" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="20" cy="-92" r="4"><animate attributeName="opacity" values=".4;1;.4" dur="2.1s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g fill="none" stroke="#22D3EE" opacity=".32">
+      <line x1="-118" y1="0" x2="-72" y2="0"/>
+      <line x1="118" y1="0" x2="72" y2="0"/>
+      <line x1="0" y1="-118" x2="0" y2="-72"/>
+      <line x1="0" y1="118" x2="0" y2="72"/>
+    </g>
+  </g>
+
+  <g font-family="JetBrains Mono, monospace" fill="#CFFAFE">
+    <g transform="translate(48 125)">
+      <rect width="210" height="92" rx="8" fill="#071116" fill-opacity=".82" stroke="#155E75"/>
+      <text x="16" y="24" fill="#67E8F9" font-size="11" letter-spacing="2">RAG ENGINE</text>
+      <text x="16" y="48" font-size="14">INGESTION</text>
+      <rect x="16" y="58" width="178" height="5" rx="2" fill="#164E63"/>
+      <rect x="16" y="58" width="148" height="5" rx="2" fill="#22D3EE">
+        <animate attributeName="width" values="70;178;148" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g transform="translate(48 238)">
+      <rect width="210" height="92" rx="8" fill="#071116" fill-opacity=".82" stroke="#155E75"/>
+      <text x="16" y="24" fill="#67E8F9" font-size="11" letter-spacing="2">VECTOR INDEX</text>
+      <text x="16" y="49" font-size="13">nomic-embed-text</text>
+      <text x="16" y="70" fill="#67E8F9" font-size="10">LOCAL / PRIVATE</text>
+    </g>
+    <g transform="translate(942 125)">
+      <rect width="210" height="92" rx="8" fill="#071116" fill-opacity=".82" stroke="#155E75"/>
+      <text x="194" y="24" fill="#67E8F9" font-size="11" text-anchor="end" letter-spacing="2">LLM CORE</text>
+      <text x="194" y="49" font-size="13" text-anchor="end">OLLAMA</text>
+      <text x="194" y="70" fill="#67E8F9" font-size="10" text-anchor="end">LLAMA 3.2</text>
+    </g>
+    <g transform="translate(942 238)">
+      <rect width="210" height="92" rx="8" fill="#071116" fill-opacity=".82" stroke="#155E75"/>
+      <text x="194" y="24" fill="#67E8F9" font-size="11" text-anchor="end" letter-spacing="2">API GATEWAY</text>
+      <text x="194" y="49" font-size="13" text-anchor="end">10 ENDPOINTS</text>
+      <text x="194" y="70" fill="#67E8F9" font-size="10" text-anchor="end">STREAMING / ACTIVE</text>
+    </g>
+  </g>
+
+  <g stroke="#22D3EE" stroke-opacity=".45" fill="none">
+    <path d="M258 171H482"/>
+    <path d="M258 284H482"/>
+    <path d="M718 171H942"/>
+    <path d="M718 284H942"/>
+  </g>
+
+  <g font-family="JetBrains Mono, monospace" font-size="10" fill="#67E8F9" opacity=".75">
+    <text x="48" y="382">RUNTIME: FASTAPI</text>
+    <text x="600" y="382" text-anchor="middle">SOURCE GROUNDING: ENABLED</text>
+    <text x="1152" y="382" text-anchor="end">STORE: SQLITE</text>
+  </g>
+</svg>

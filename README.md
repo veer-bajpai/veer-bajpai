@@ -1,355 +1,198 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Veer%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Systems%20%7C%20Full%20Stack&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090C10,100:1A2A33&height=210&section=header&text=VEER%20BAJPAI&fontSize=58&fontColor=67E8F9&animation=fadeIn&fontAlignY=38&desc=BACKEND%20ENGINEER%20%7C%20DATA%20PIPELINES%20%7C%20AI%20AGENTS&descAlignY=58&descSize=18" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/friday-agent.svg">
+  <img src="./assets/friday-agent.svg" width="100%" alt="FRIDAY-inspired animated AI agent interface"/>
+</picture>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+%7C+Full-Stack+%7C+Forward+Deployed+Engineer;FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;C%2B%2B+%7C+Python+%7C+High-Performance+Systems;Shipped+3+FastAPI+systems+%2B+199%2F199+tests+passing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Python+ETL+and+data+quality+pipelines;FastAPI+auth%2C+REST+APIs%2C+JWT+and+RBAC;523-test+Pytest+validation+suite;Local-first+RAG+with+Ollama+and+Pydantic" alt="Typing SVG"/>
 </a>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Veer_Bajpai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-bajpai/)
+[![Email](https://img.shields.io/badge/Email-bajpai.veer01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajpai.veer01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-veer--bajpai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/veer-bajpai)
 
-![B.E. Computer Science](https://img.shields.io/badge/B.E.-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Chandigarh University](https://img.shields.io/badge/Chandigarh%20University-2022--2026-4C1D95?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to-Backend%20%7C%20Full--Stack%20%7C%20FDE%20roles-7C3AED?style=for-the-badge)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-bajpai/)
-[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajpai.veer01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/veer-bajpai)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=veer-bajpai&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/veer-bajpai?style=for-the-badge&color=7c3aed&labelColor=1e1b2e&logo=github)
-![Stars](https://img.shields.io/github/stars/veer-bajpai?style=for-the-badge&color=a78bfa&labelColor=1e1b2e&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=veer-bajpai&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
+## `01 // ABOUT`
 
----
+Backend Engineer building Python data pipelines, REST APIs, and AI agents. At **BisViews**, I run a Python ETL and web scraping pipeline that ingests multi-source data, then cleans, deduplicates, validates, and geocodes it. At **Micro1 Inc.**, I built a FastAPI authentication service and a 523-test Pytest suite.
 
-## 🟣 About Me
+Strong in **Python, SQL, data modeling, Git, Docker, CI/CD, and testing**. I use LLM APIs and AI tools such as Claude, Cursor, Gemini, and Copilot daily, with Slack-based remote collaboration.
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/vaishakhk/vaishakhk/master/img/coding.gif"/>
-
-I'm **Veer Bajpai**, a software engineer who builds **production-shaped backend systems end-to-end** — authentication, RBAC, payments, and Docker deployment — alongside **high-performance C++ systems work** at the network and memory level.
-
-I've shipped 3 FastAPI systems, held seat-overselling at **zero across 600 concurrent bookings**, and verified **199/199 tests passing** on an AI code agent. On the systems side, I've built a multi-threaded Deep Packet Inspection engine classifying real-time network traffic with 90% accuracy and zero false negatives.
-
-My engineering philosophy centers on **precision, scalability, and product impact** — optimizing not just for correctness, but for throughput, reliability, and real-world usability.
-
-**Core Focus Areas:**
-
-- 🧩 **Backend & API Engineering** — FastAPI, JWT auth & RBAC, multi-tenancy, payments, webhooks
-- ⚙️ **Systems & Networking** — multi-threaded architectures, TCP/IP, socket programming, concurrent data structures
-- 🌐 **Full-Stack Development** — RESTful API design, relational database architecture, scalable service integration
-- 🧠 **Applied AI/ML** — AI agents & tool calling, Retrieval-Augmented Generation (RAG), vector search (HNSW/KD-Tree), local LLM inference with Ollama, BM25 search
-
-<br clear="right"/>
-
-### 🎯 Open To
-
+```text
+LOCATION  Chandigarh, India / Remote
+FOCUS     Backend systems  |  Data engineering  |  Applied AI
+STATUS    Open to Backend, Data Engineering, and AI Engineering roles
 ```
 
-🔹 Backend / Full-Stack Engineering Roles
-🔹 Forward Deployed Engineer Opportunities
-🔹 Systems / Software Engineering Roles
-🔹 AI/ML Engineering Roles
-🔹 Open Source Collaboration
+## `02 // TOOLCHAIN`
 
-```
+### Languages & Backend
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,fastapi,postgresql,redis,sqlite,restapi&perline=8" />
+</p>
 
-## 🟣 Tech Stack
+### Frontend & AI
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,react,tailwind&perline=8" />
+</p>
 
-**Languages**
+### DevOps, Testing & Collaboration
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,mysql,postgresql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,linux,aws,gcp,postman,pycharm,vscode&perline=9" />
+</p>
 
-**Frontend**
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC-0891B2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=flat-square&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GDB-5C2D91?style=flat-square"/>
+  <img src="https://img.shieldsields.io/badge/Valgrind-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google_Places_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+## `03 // EXPERIENCE`
 
-**Backend & Databases**
+### BisViews · Data Engineer Intern
+`Oct 2026 – Present` · Remote
 
-<img src="https://skillicons.dev/icons?i=fastapi,python,cpp,postgresql,sqlite,redis,mongodb" />
+- Built a Python ETL and web scraping pipeline for franchise data across France, Italy, Brazil, and South Africa.
+- Ingested multi-source records into a 22-field schema with cleaning, deduplication, validation, and geocoding.
+- Deduplicated by brand, website, address, and place ID; validated records against required fields and a category taxonomy.
+- Added Google Places and Nominatim geocoding with confidence scores for manual review.
+- Split output into **Cleaned** and **Flagged** datasets with evidence-backed audit trails and reconciliation.
+- Added Slack webhook alerts, retries, logging, and end-to-end reconciliation for run monitoring.
 
-**Cloud, DevOps & Tooling**
+**Stack:** `Python` `Pandas` `Web Scraping` `REST APIs` `Google Places` `Nominatim` `Slack` `Git`
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,cmake,postman" />
+### Micro1 Inc. · Software Engineer Intern
+`Apr 2025 – Sep 2025` · Remote
 
-</div>
+- Developed a production-ready FastAPI authentication and authorization service.
+- Implemented JWT access control, role-based permissions, and REST API validation.
+- Built Pytest suites for REST APIs and PostgreSQL covering **523 test cases**: integration, system, and regression.
+- Shipped through Git branching, pull requests, code review, and Linux-based validation.
 
----
+**Stack:** `Python` `FastAPI` `REST APIs` `JWT` `PostgreSQL` `SQL` `Pytest` `Postman` `Linux` `Git`
 
-## 🟣 Applied AI/ML Specialty
+## `04 // SELECTED PROJECTS`
 
-<div align="center">
+| Project | What it does | Tech |
+|---|---|---|
+| **[RepoPilot](https://github.com/veer-bajpai/Repo.Pilot-AI-Code-Agent)** · [Live Demo](https://repo-pilot-ai-code-agent.onrender.com/) | Sandboxed AI code agent that searches, edits, tests, and diffs code with human approval controls. **199/199 tests passed**; rejected edits were blocked safely. | Python, FastAPI, Gemini, BM25, Docker, JavaScript, Claude, Cursor |
+| **[EventForge](https://github.com/veer-bajpai/Event.Forge-Multi-Tenant-Event-Management-Platform)** · [Live Demo](https://eventforge-o7yt.onrender.com/) | Multi-organizer event platform with PostgreSQL data modeling, REST APIs, JWT/RBAC login, and concurrency-safe bookings. Scale-tested at 600 concurrent bookings with zero oversold seats. | Python, FastAPI, PostgreSQL, SQL, Redis, Docker, JWT, RBAC |
+| **FRIDAY** · [GitHub](https://github.com/veer-bajpai) | Local-first RAG workspace with 10 REST endpoints, streaming chat, document ingestion, chunking, embeddings, retrieval, grounded citations, and SQLite persistence. | Python, FastAPI, Pydantic, SQLite, RAG, Ollama, Next.js, TypeScript, Docker, GitHub Actions |
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **AI Agents & Tool Calling** | ⭐⭐⭐⭐☆ | Built a sandboxed, human-in-the-loop AI code agent (search, read, edit, run tests, diff) gated by approval on every mutating action |
-| **Retrieval-Augmented Generation (RAG)** | ⭐⭐⭐⭐☆ | Built custom RAG pipelines integrating local LLM inference via Ollama for context-aware retrieval and generation |
-| **Vector & Lexical Search** | ⭐⭐⭐⭐☆ | Implemented HNSW indexing with sub-second query latency across 100,000+ documents, and BM25 lexical search for codebase retrieval |
-| **LLM Integration** | ⭐⭐⭐⭐☆ | Engineered high-concurrency REST APIs serving semantic search and Gemini-assisted field mapping against LLM backends |
-| **Embedding Systems** | ⭐⭐⭐⭐☆ | Architected scalable embedding storage, reducing memory overhead by 20% with high-precision retrieval |
+## `05 // EDUCATION`
 
-</div>
+**Chandigarh University** · Bachelor of Technology in Computer Science and Engineering
 
----
+`Aug 2022 – May 2026` · Punjab, India · **CGPA: 7.5/10** · Dean's top 10%
 
-## 🟣 Featured Projects
+Relevant coursework: Data Structures, Algorithms, Operating Systems, Computer Architecture, and OOP.
 
-<details open>
-<summary><b>🧩 EventForge — Multi-Tenant Event Management Platform</b></summary>
-<br/>
+## `06 // ACHIEVEMENTS`
 
-A multi-tenant event hosting platform: organizations create events, sell tickets, take payments, and check guests in at the door, with full tenant isolation and role-based access.
+- 🏆 **3rd place among 20 teams** at HACKOVERFLOW 5.0, National Institute of Technology Durgapur.
+- 🧩 **783rd of 21,000+** in LeetCode Biweekly Contest 96.
+- 🧩 **557th of 4,000+** in CodeChef Starters 76.
+- 🎓 **AIR 104** in the National Talent Search Examination (NTSE), 2022.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | FastAPI, PostgreSQL, Redis, SQLAlchemy 2, Docker |
-| **RBAC** | 4 roles (`viewer < staff < admin < owner`) via a dependency-based gate; non-members get `404`, not `403` |
-| **Auth** | Rotating refresh tokens with theft detection — reusing a rotated token revokes the whole token family |
-| **Concurrency** | Seat reservation via conditional `UPDATE … WHERE sold + qty <= capacity` — **zero oversold seats across 600 concurrent bookings** |
-| **Payments** | HMAC-signed webhooks with an idempotency ledger; replayed webhooks are harmless |
-| **Testing** | 15 passing API tests covering tenancy, RBAC, refresh rotation, overselling, and webhooks |
-| **Links** | [Live Demo](https://eventforge-o7yt.onrender.com/) · [Repository](https://github.com/veer-bajpai/Event.Forge-Multi-Tenant-Event-Management-Platform) |
+## `07 // CERTIFICATIONS`
 
-</details>
+| Certification | Issuer | Year |
+|---|---|---:|
+| Introduction to Linux (LFS101x) | The Linux Foundation | 2026 |
+| Operating Systems | NPTEL (IIT) | 2025 |
 
-<br/>
-
-<details open>
-<summary><b>🤖 RepoPilot — AI Code Agent</b></summary>
-<br/>
-
-An AI developer agent that reads a repository, plans a fix, edits files, and runs tests — with a human approval gate before every edit and every test run.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | FastAPI, Python 3.10+, Google Gemini, BM25 Search, Docker |
-| **Safety** | 5-tool sandboxed action set (search, read, edit, run tests, diff); the model never touches the filesystem, network, or shell directly |
-| **Security layers** | Visitor isolation, abuse limits, path/secret hard-blocks, approval gates, scrubbed test execution |
-| **Verified** | **199/199 tests passing**, and a rejected edit never touched the file in a real run |
-| **Links** | [Live Demo](https://repo-pilot-ai-code-agent.onrender.com/) · [Repository](https://github.com/veer-bajpai/Repo.Pilot-AI-Code-Agent) |
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🔌 IntegrateHub — AI-Powered Data Integration Platform</b></summary>
-<br/>
-
-A unified ingestion pipeline that turns client data arriving from disconnected sources into clean, mapped records.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | FastAPI, SQLite, Google Gemini, Docker |
-| **Ingestion** | CSV uploads, HMAC-verified webhooks, and REST pulls into one JWT-scoped, multi-tenant workspace |
-| **AI mapping** | Gemini-assisted field mapping with a deterministic local fallback when no API key is set |
-| **Security** | Constant-time HMAC signature verification, encrypted-at-rest connector secrets |
-| **Verified** | **20 concurrent uploads at 269 req/s with 100% correct duplicate detection**, forged signatures rejected |
-| **Links** | [Live Demo](https://integratehub.onrender.com/) · [Repository](https://github.com/veer-bajpai/Integrate.Hub-AI-Powered-Data-Integration-Platform) |
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🔷 DPI Engine — Deep Packet Inspection System</b></summary>
-<br/>
-
-High-throughput, multi-threaded Deep Packet Inspection engine built in C++, designed for real-time network traffic classification at scale using a producer-consumer architecture.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | C++, Multi-threading, TCP/IP, TLS/SNI Parsing, PCAP Analysis |
-| **Scale** | Real-time traffic processing across diverse network protocols |
-| **Performance** | Low-latency packet parsing with consistent-hashing-based flow management |
-| **Security** | TLS/SNI extraction for precise, protocol-aware application identification |
-| **Impact** | 90% traffic classification accuracy with zero false negatives across 75+ PCAP datasets |
-| **Repository** | [View Project](https://github.com/veer-bajpai) |
-
-Architected scalable flow management using thread-safe queues and consistent hashing to ensure high availability and reliable packet processing under sustained heavy load.
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🧠 AI Personal Assistant — LLM-Powered Chatbot</b></summary>
-<br/>
-
-A high-concurrency, LLM-powered semantic search and retrieval system combining a custom RAG pipeline with local inference and optimized vector search.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | C++, REST APIs, HNSW, Ollama |
-| **Scale** | 100,000+ document knowledge base |
-| **Performance** | Sub-second query latency via HNSW-optimized vector search |
-| **Security** | Local LLM inference — no external data exposure |
-| **Impact** | 20% reduction in memory overhead while preserving high-precision retrieval |
-| **Repository** | [View Project](https://github.com/veer-bajpai) |
-
-Engineered a high-concurrency RESTful API in C++ integrating directly with LLM-based backend services, enabling context-aware document retrieval and generation through a custom-built RAG pipeline powered by Ollama.
-
-</details>
-
----
-
-## 🟣 Experience
-
-### Software Engineer Intern · **The Boring Education**
-`Apr 2025 – Nov 2025` · Remote, India
-
-Contributed as a backend-focused software engineering intern within an Agile team, delivering data pipelines, optimized database queries, and core backend improvements.
-
-**Scope of Work:**
-- Automated data ingestion pipelines using Python, processing 10,000+ records daily and reducing manual data entry time by 40%
-- Optimized 20+ complex SQL queries for reporting dashboards, reducing execution time by 35%
-- Refactored core C++ backend modules for multi-threading and memory management, achieving a 30% reduction in request latency under high concurrency
-- Delivered 10+ backend features in an Agile environment, maintaining 95% on-time sprint delivery with rigorous peer code review
-
-<br/>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-6D28D9?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-6D28D9?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile%2FScrum-6D28D9?style=flat-square&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-6D28D9?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏆 **Best Final Year Project — 2026** | Chandigarh University · Multi-threaded C++ Deep Packet Inspection engine achieving 90% forwarding accuracy with zero false negatives across 75+ PCAP test cases |
-| 🎖️ **Meta Back-End Developer Professional Certificate — 2025** | Coursera · Hands-on projects in Python, Django, APIs, databases, Git, and back-end web development principles |
-
-</div>
-
----
-
-## 🟣 Certifications
-
-<div align="center">
-
-![Oracle Cloud Infrastructure AI Foundations Associate](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AI/Agent Applied Skills](https://img.shields.io/badge/Microsoft-AI%2FAgent%20Applied%20Skills-6D28D9?style=for-the-badge&logo=microsoft&logoColor=white)
-![MongoDB Associate Developer](https://img.shields.io/badge/MongoDB-Associate%20Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-4C1D95?style=for-the-badge&logo=github&logoColor=white)
-![Meta Back-End Developer](https://img.shields.io/badge/Meta-Back--End%20Developer%20Professional%20Certificate-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-Verified%20Certificate-6D28D9?style=for-the-badge&logo=coursera&logoColor=white)
-
-</div>
-
----
-
-## 🟣 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Veer_Bajpai/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/bajpaivhiwe)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bajpai_veer01)
-
-500+ DSA problems solved across LeetCode, GeeksforGeeks & HackerRank.
-
-</div>
-
----
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=veer-bajpai&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9c9c9&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=veer-bajpai&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veer-bajpai&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9c9c9" width="50%"/>
-
-</div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=veer-bajpai&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veer-bajpai&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="100%"/>
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/veer-bajpai/veer-bajpai/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## 🟣 Current Focus
+## `08 // CORE COMPETENCIES`
 
 ```yaml
-Building:
-  - Production-shaped backend systems (auth, RBAC, payments, multi-tenancy)
-  - AI agents with sandboxed tool calling and human approval gates
-  - High-performance network processing engines
+languages:
+  Python: advanced
+  SQL: advanced
+  Bash: advanced
+  C++: practiced
 
-Learning:
-  - Advanced Distributed Systems Design
-  - Large Language Model Fine-Tuning & Optimization
-  - Cloud-Native Backend Architecture
+backend:
+  - FastAPI
+  - REST APIs
+  - API integration
+  - JWT and RBAC authentication
+  - PostgreSQL
+  - Redis
+  - Data modeling
 
-Exploring:
-  - Systems-Level AI Infrastructure
-  - Scalable Microservice Architectures
+data_engineering:
+  - ETL and web scraping
+  - Data cleaning
+  - Deduplication
+  - Validation
+  - Geocoding
+  - End-to-end reconciliation
 
-Open To:
-  - Backend / Full-Stack / Forward Deployed Engineer roles
-  - Systems & AI/ML Engineering Opportunities
-  - Open Source Collaboration
+ai:
+  - Gemini and Ollama
+  - AI agents
+  - RAG
+  - Embeddings
+  - Claude, Cursor, Copilot
+
+devops:
+  - Git
+  - Docker
+  - GitHub Actions
+  - Render
+  - AWS
+  - Linux
+
+testing:
+  - Pytest
+  - Postman
+  - API testing
+  - Integration testing
+  - Regression testing
+  - Scale testing
+  - GDB
+  - Valgrind
 ```
 
----
-
-## 🟣 Connect With Me
+## `09 // GITHUB SIGNAL`
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-bajpai.veer01%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajpai.veer01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-veer--bajpai-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-bajpai/)
-[![GitHub](https://img.shields.io/badge/GitHub-veer--bajpai-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/veer-bajpai)
+<img src="https://github-readme-stats.vercel.app/api?username=veer-bajpai&show_icons=true&theme=radical&hide_border=true&bg_color=090C10&title_color=67E8F9&icon_color=22D3EE&text_color=C9D1D9&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=veer-bajpai&theme=radical&hide_border=true&background=090C10&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veer-bajpai&layout=compact&theme=radical&hide_border=true&bg_color=090C10&title_color=67E8F9&text_color=C9D1D9" width="50%"/>
+
+</div>
+
+## `10 // CONTRIBUTION TRACE`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veer-bajpai&theme=react-dark&hide_border=true&bg_color=090C10&color=67E8F9&line=22D3EE&point=FFFFFF" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/veer-bajpai/veer-bajpai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
 </div>
 
@@ -357,8 +200,10 @@ Open To:
 
 <div align="center">
 
-### *"Engineering systems that scale, and intelligence that adapts."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-bajpai/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajpai.veer01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/veer-bajpai)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090C10,100:1A2A33&height=120&section=footer" width="100%"/>
 
 </div>
